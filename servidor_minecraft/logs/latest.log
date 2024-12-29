@@ -1,0 +1,185 @@
+[29Dec2024 00:01:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Gave 1 [Gunpowder] to Bensanchex]
+[29Dec2024 00:01:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Monster Hunter]
+[29Dec2024 00:02:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [A Strange Grave Dust]
+[29Dec2024 00:02:15.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Magic Writing]
+[29Dec2024 00:02:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Knowledge of Death]
+[29Dec2024 00:02:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Back to childhood]
+[29Dec2024 00:02:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Not even afraid of death]
+[29Dec2024 00:03:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 blew up
+[29Dec2024 00:03:48.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Your First Grave]
+[29Dec2024 00:03:48.352] [Server thread/INFO] [tombstone/]: The player Ashuraa2 has successfully been saved
+[29Dec2024 00:03:49.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [The Most Useful Key]
+[29Dec2024 00:04:12.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Teleported Ashuraa2 to Bensanchex]
+[29Dec2024 00:05:56.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 was blown up by Bensanchex
+[29Dec2024 00:05:56.297] [Server thread/INFO] [tombstone/]: The player Ashuraa2 has successfully been saved
+[29Dec2024 00:06:33.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Teleported Ashuraa2 to Bensanchex]
+[29Dec2024 00:06:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has reached the goal [Traveling lightning rod]
+[29Dec2024 00:09:34.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 was slain by Zombie
+[29Dec2024 00:09:34.742] [Server thread/INFO] [tombstone/]: The player Ashuraa2 has successfully been saved
+[29Dec2024 00:09:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Teleported Ashuraa2 to Bensanchex]
+[29Dec2024 00:10:51.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Teleported Ashuraa2 to Bensanchex]
+[29Dec2024 00:11:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Sneak 100]
+[29Dec2024 00:11:36.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Shape of My Heart]
+[29Dec2024 00:11:52.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bensanchex lost connection: Timed out
+[29Dec2024 00:11:52.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex left the game
+[29Dec2024 00:11:56.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bensanchex[/[::1]:45452] logged in with entity id 14606 at (-379.5392346445799, -7.0, 99.96579065045952)
+[29Dec2024 00:11:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex joined the game
+[29Dec2024 00:13:08.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has made the advancement [Sneak 100]
+[29Dec2024 00:13:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Diamonds!]
+[29Dec2024 00:15:00.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has made the advancement [Amateur Archaeologist]
+[29Dec2024 00:15:25.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has made the advancement [Suit Up]
+[29Dec2024 00:15:41.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Chest Slayer]
+[29Dec2024 00:15:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Amateur Archaeologist]
+[29Dec2024 00:17:13.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has made the advancement [Diamonds!]
+[29Dec2024 00:17:40.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 has made the advancement [Suit Up]
+[29Dec2024 00:18:35.616] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=26, z=-612}
+[29Dec2024 00:18:35.616] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=27, z=-612}
+[29Dec2024 00:18:35.616] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=28, z=-612}
+[29Dec2024 00:18:35.617] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=26, z=-610}
+[29Dec2024 00:18:35.617] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=27, z=-610}
+[29Dec2024 00:18:35.617] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=28, z=-610}
+[29Dec2024 00:18:35.617] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=27, z=-614}
+[29Dec2024 00:18:35.618] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=26, z=-614}
+[29Dec2024 00:18:35.618] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=28, z=-614}
+[29Dec2024 00:18:35.618] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=26, z=-614}
+[29Dec2024 00:18:35.619] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=27, z=-614}
+[29Dec2024 00:18:35.619] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=28, z=-614}
+[29Dec2024 00:18:35.619] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=29, z=-611}
+[29Dec2024 00:18:35.619] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-610}
+[29Dec2024 00:18:35.620] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=27, z=-610}
+[29Dec2024 00:18:35.620] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=28, z=-610}
+[29Dec2024 00:18:35.620] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-612}
+[29Dec2024 00:18:35.620] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=27, z=-612}
+[29Dec2024 00:18:35.621] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=28, z=-612}
+[29Dec2024 00:18:35.622] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=26, z=-608}
+[29Dec2024 00:18:35.622] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=27, z=-608}
+[29Dec2024 00:18:35.622] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=28, z=-608}
+[29Dec2024 00:18:35.623] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=26, z=-608}
+[29Dec2024 00:18:35.623] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=27, z=-608}
+[29Dec2024 00:18:35.623] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=28, z=-608}
+[29Dec2024 00:18:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 burned to death
+[29Dec2024 00:18:43.300] [Server thread/INFO] [tombstone/]: The player Ashuraa2 has successfully been saved
+[29Dec2024 00:20:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has made the advancement [Chest Slayer]
+[29Dec2024 00:21:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex suffocated in a wall
+[29Dec2024 00:21:08.254] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:21:11.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-410, y=-15, z=75}
+[29Dec2024 00:25:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Cave Spider
+[29Dec2024 00:25:08.594] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:29:20.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAC102002[/[::1]:45194] logged in with entity id 19088 at (-209.43433003771608, 78.0, 158.18537297642067)
+[29Dec2024 00:29:20.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 joined the game
+[29Dec2024 00:29:30.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAC102002 lost connection: You logged in from another location
+[29Dec2024 00:29:30.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 left the game
+[29Dec2024 00:29:30.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAC102002[/[::1]:37744] logged in with entity id 19211 at (-209.43433003771608, 78.0, 158.18537297642067)
+[29Dec2024 00:29:30.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 joined the game
+[29Dec2024 00:29:31.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has made the advancement [Ashes 'n Bones]
+[29Dec2024 00:32:30.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAC102002 lost connection: Timed out
+[29Dec2024 00:32:30.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 left the game
+[29Dec2024 00:33:04.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Troll
+[29Dec2024 00:33:04.050] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:33:13.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bensanchex lost connection: Timed out
+[29Dec2024 00:33:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex left the game
+[29Dec2024 00:33:46.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bensanchex[/[::1]:57240] logged in with entity id 20312 at (-329.69999998807907, 12.0, 128.59796209881137)
+[29Dec2024 00:33:46.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex joined the game
+[29Dec2024 00:33:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has made the advancement [Mysterious Gift]
+[29Dec2024 00:34:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has reached the goal [Chain Death]
+[29Dec2024 00:34:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex fell from a high place
+[29Dec2024 00:34:30.558] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:37:58.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAC102002[/[::1]:58808] logged in with entity id 21537 at (-201.30000001192093, 79.5, 178.29735624434812)
+[29Dec2024 00:37:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 joined the game
+[29Dec2024 00:38:14.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Teleported JAC102002 to Bensanchex]
+[29Dec2024 00:38:49.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 has made the advancement [Isn't It Iron Pick]
+[29Dec2024 00:39:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 has made the advancement [Stone Age]
+[29Dec2024 00:39:42.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ashuraa2 lost connection: Timed out
+[29Dec2024 00:39:42.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ashuraa2 left the game
+[29Dec2024 00:40:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 00:40:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dfgsd<--[HERE]
+[29Dec2024 00:40:59.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was shot by Skeleton
+[29Dec2024 00:40:59.050] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:41:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 has made the advancement [Sneak 100]
+[29Dec2024 00:47:36.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAC102002 moved wrongly!
+[29Dec2024 00:48:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 was slain by Mimic
+[29Dec2024 00:48:06.040] [Server thread/INFO] [tombstone/]: The player JAC102002 has successfully been saved
+[29Dec2024 00:49:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Teleported JAC102002 to Bensanchex]
+[29Dec2024 00:50:40.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Set own game mode to Spectator Mode]
+[29Dec2024 00:51:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 has made the advancement [Sweet Dreams]
+[29Dec2024 00:51:36.601] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[29Dec2024 00:51:36.601] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[29Dec2024 00:51:36.602] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[29Dec2024 00:51:36.602] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[29Dec2024 00:51:36.602] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[29Dec2024 00:51:36.602] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[29Dec2024 00:51:36.602] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[29Dec2024 00:51:36.602] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[29Dec2024 00:51:36.602] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[29Dec2024 00:51:36.603] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[29Dec2024 00:51:38.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAC102002 moved wrongly!
+[29Dec2024 00:51:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 was slain by Mimic
+[29Dec2024 00:51:39.254] [Server thread/INFO] [tombstone/]: The player JAC102002 has successfully been saved
+[29Dec2024 00:52:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Set own game mode to Survival Mode]
+[29Dec2024 00:53:04.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 has made the advancement [Chest Slayer]
+[29Dec2024 00:53:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 has made the advancement [Amateur Archaeologist]
+[29Dec2024 00:53:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Sucker
+[29Dec2024 00:53:45.054] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:54:24.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 00:54:24.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cfgf<--[HERE]
+[29Dec2024 00:54:45.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAC102002 lost connection: Timed out
+[29Dec2024 00:54:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAC102002 left the game
+[29Dec2024 00:55:05.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made JAC102002 a server operator
+[29Dec2024 00:55:21.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Set own game mode to Spectator Mode]
+[29Dec2024 00:56:17.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bensanchex: Set own game mode to Survival Mode]
+[29Dec2024 00:56:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Sucker
+[29Dec2024 00:56:36.447] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:57:11.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Sucker
+[29Dec2024 00:57:11.288] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:58:18.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Sucker
+[29Dec2024 00:58:19.002] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:58:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Sucker
+[29Dec2024 00:58:53.997] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 00:59:26.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by Sucker
+[29Dec2024 00:59:26.594] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 01:01:04.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex has completed the challenge [Now how do I configure this crappy mod???]
+[29Dec2024 01:01:04.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex was slain by The Moonflower
+[29Dec2024 01:01:04.865] [Server thread/INFO] [tombstone/]: The player Bensanchex has successfully been saved
+[29Dec2024 01:03:19.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bensanchex lost connection: Timed out
+[29Dec2024 01:03:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bensanchex left the game
+[29Dec2024 01:03:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Dec2024 01:03:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hgtyi<--[HERE]
+[29Dec2024 01:08:49.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 01:08:49.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 01:08:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 01:08:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 01:08:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 01:08:50.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[29Dec2024 01:08:50.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[29Dec2024 01:08:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[29Dec2024 01:08:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 01:08:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[29Dec2024 01:08:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[29Dec2024 01:08:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[29Dec2024 01:08:50.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 01:08:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[29Dec2024 01:08:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[29Dec2024 01:08:50.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[29Dec2024 01:08:50.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Dec2024 01:08:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[29Dec2024 01:08:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[29Dec2024 01:08:50.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[29Dec2024 01:08:50.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[29Dec2024 01:08:50.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 01:08:50.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[29Dec2024 01:08:50.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[29Dec2024 01:08:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
